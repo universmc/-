@@ -1,0 +1,13 @@
+{
+  "name": "_init_",
+  "version": "1.0.0",
+  "description": "",
+  "main": "codex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "auto": "make init"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

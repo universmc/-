@@ -1,0 +1,94 @@
+[       
+    {
+    "titre": "Exo Ben Code",
+    "sousSections": [
+        {
+            "sousTitre": "Introduction",
+            "contenu": "Présentation de l'agent IA le développement Ben-COde."
+        },
+        {
+            "sousTitre": "/devOps FullStack ml -ia",
+            "contenuMarkdown": "src/md/ben-code.md"
+        },
+        {
+            "sousTitre": "/devOps FullStack ml -ia",
+            "contenuMarkdown": "src/md/intro.md"
+        }
+    ]
+    },
+    {
+        "titre": "DevOps",
+        "sousSections": [
+            {
+                "sousTitre": "Introduction au DevOps",
+                "contenuMarkdown": "md/cours-devops.md"
+            },
+            {
+                "sousTitre": "Déploiement et Maintenance",
+                "contenu": "Bonnes pratiques pour le déploiement et la maintenance des applications web."
+            }
+        ]
+    },
+    {
+        "titre": "Front-End",
+        "sousSections": [
+            {
+                "sousTitre": "HTML",
+                "contenuMarkdown": "md/cours-frontend-html.md"
+            },
+            {
+                "sousTitre": "CSS",
+                "contenuMarkdown": "md/cours-frontend-css.md"
+            },
+            {
+                "sousTitre": "SASS",
+                "contenuMarkdown": "md/cours-frontend-sass.md"
+            },
+            {
+                "sousTitre": "ASCII Art en Web Design",
+                "contenuMarkdown": "md/cours-frontend-ascii.md"
+            },
+            {
+                "sousTitre": "SVG en Tensors",
+                "contenuMarkdown": "md/cours-frontend-svg.md"
+            },
+            {
+                "sousTitre": "JavaScript",
+                "contenuMarkdown": "md/cours-frontend-javascript.md"
+            },
+            {
+                "sousTitre": "React",
+                "contenuMarkdown": "md/cours-frontend-react.md"
+            }
+        ]
+    },
+    {
+        "titre": "Back-End",
+        "sousSections": [
+            {
+                "sousTitre": "PHP",
+                "contenuMarkdown": "md/cours-backend-php.md"
+            },
+            {
+                "sousTitre": "SQL",
+                "contenuMarkdown": "md/cours-backend-sql.md"
+            },
+            {
+                "sousTitre": "nodejs",
+                "contenuMarkdown": "md/cours-backend-sql.md"
+            },
+            {
+                "sousTitre": "Python",
+                "contenu": "Scripting, analyse de données et intégration avec des frameworks web."
+            },
+            {
+                "sousTitre": "Node.js et Swagger",
+                "contenuMarkdown": "md/swagger.md"
+            },
+            {
+                "sousTitre": "JSON",
+                "contenuMarkdown": "md/cours-backend-json.md"
+            }
+        ]
+    }
+]

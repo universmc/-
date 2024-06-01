@@ -1,0 +1,12 @@
+[
+    {"component": "srv/ob-srv.php"},
+    {"component": "srv/ProjetManager.php"},
+    {"component": "srv/beatMaker.php"},
+    {"component": "srv/VideoRenderer.php"},
+    {"component": "srv/SubtitleHandler.php"},
+    {"component": "srv/TransformationController.php"},
+    {"component": "srv/oxrdTheme.php"},
+    {"component": "srv/dchub.php"},
+    {"component": "srv/telegram.php"},
+    {"component": "srv/groq.php"}
+]

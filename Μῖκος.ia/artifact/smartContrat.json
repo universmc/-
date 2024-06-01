@@ -1,0 +1,47 @@
+{
+    "SmartContract": {
+      "Name": "umcTokens.sol",
+      "Functionality": "Ce contrat gère probablement la création et la gestion des jetons UMC.",
+      "StepsToFollow": [
+        {
+          "StepNumber": 1,
+          "Description": "Examinez le contrat intelligent pour vérifier son traitement de la création, de la suppression et de la gestion des jetons UMC.",
+          "Notes": "Assurez-vous que tout mouvement de jetons, y compris l'envoi ou la réception, est enregistré correctement pour simplifier la vérification et l'analyse des opérations."
+        }
+      ]
+    },
+    "ERC20Token": {
+      "Name": "UMC.coin",
+      "UsageInProject": "Utilisé dans votre projet DeFi.",
+      "StepsToFollow": [
+        {
+          "StepNumber": 1,
+          "Description": "Surveillez régulièrement la quantité totale de jetons en circulation et restez vigilant face aux variations de leur valeur.",
+          "Notes": "Notez les informations pertinentes des transactions de jetons, telles que la date, le montant et la contrepartie."
+        }
+      ]
+    },
+    "CSVFile": {
+      "Filename": "cv-ia.csv",
+      "ContentDescription": "Ce fichier CSV contient des données financières ou statistiques importantes pour votre projet.",
+      "StepsToFollow": [
+        {
+          "StepNumber": 1,
+          "Description": "Mettez à jour régulièrement le fichier avec les données disponibles les plus récentes.",
+          "Notes": "Incluez des informations actualisées sur les transactions, la valeur totale du portefeuille ou toute autre métrique utile pour suivre les performances financières de votre projet."
+        }
+      ]
+    },
+    "PHPValue": {
+      "VariableName": "PHP Value",
+      "Description": "Il s'agit peut-être d'un indicateur de la valeur totale de vos avoirs ou de votre projet.",
+      "CalculationMethod": "Multipliez le nombre total de jetons UMC en circulation par la valeur actuelle d'un jeton UMC.",
+      "StepsToFollow": [
+        {
+          "StepNumber": 1,
+          "Description": "Estimez la valeur totale de votre projet en calculant le produit du nombre total de jetons UMC en circulation et de la valeur courante d'un jeton.",
+          "Notes": "Suivez les changements de cette métrique pour observer l'évolution de la valeur de votre projet au fil du temps."
+        }
+      ]
+    }
+  }

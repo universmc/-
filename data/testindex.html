@@ -1,0 +1,42 @@
+<html>
+<head>
+<script src="https://cdn.jsdelivr.net/npm/groq@2.0.0-beta.10/dist/groq.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/emoji-picker@4.4.0/dist/emoji-picker.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/emoji-picker@4.4.0/dist/emoji-picker.min.css">
+<script>
+const emojiPicker = new EmojiPicker();
+document.body.appendChild(emojiPicker.picker);
+emojiPicker.on('emoji', emoji => {
+document.querySelector('🤖.emoji').innerText += emoji.native;
+});
+</script>
+</head>
+<body>
+<h1>📔.codex: Presenting the Project</h1>
+<p>Hello, I am your assistant. How can I help you today?</p>
+<p>💬$messages:</p>
+<ul>
+<li>$? What is the title of the project?</li>
+<li>$? Who is the administrator of the project?</li>
+<li>$? What are the objectives of the project?</li>
+<li>$? Who is the target audience of the project?</li>
+<li>$? What are the features of the project?</li>
+<li>$? What technologies are used in the frontend of the project?</li>
+<li>$? What technologies are used in the backend of the project?</li>
+<li>$? What technologies are used in the AI of the project?</li>
+<li>$? What are the API REST technologies used in the project?</li>
+<li>$? What are the WorldPress and website URLs of the project?</li>
+<li>$? What are the social media handles of the project?</li>
+<li>$? What is the GitHub URL of the project?</li>
+<li>$? What is the Telegram Pibot URL of the project?</li>
+<li>$? What is the Telegram Mand_finet URL of the project?</li>
+<li>$? What is the Telegram ChatRoom URL of the project?</li>
+<li>$? What is the Blockchain URL of the project?</li>
+<li>$? What is the coin of the project?</li>
+<li>$? What is the SmartContract URL of the project?</li>
+<li>$? What is the schedule of the project?</li>
+<li>$? What are the responsibilities of the team members in the project?</li>
+</ul>
+<p>🤖.emoji:</p>
+</body>
+</html>

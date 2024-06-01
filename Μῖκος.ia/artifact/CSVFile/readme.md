@@ -1,0 +1,1 @@
+SmartContract : Ceci décrit un contrat intelligent nommé "umcTokens.sol", qui est destiné à gérer la création et la gestion de jetons UMC. Il fournit des instructions pour examiner le traitement de la création, de la suppression et de la gestion des jetons UMC.
